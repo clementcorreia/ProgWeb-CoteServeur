@@ -366,7 +366,7 @@ en sortie. Voici donc comment nous allons faire pour avoir un code générique :
       type d'objet dans `selectAll()`.
 
 
-1. Il ne reste plus qu'à appeler `ModelUtilisateur::selectAll()` au lieu de
+1. Il ne reste plus qu'à appeler `ModelVoiture::selectAll()` au lieu de
    `getAllVoitures()` et pareil pour les utilisateurs.
 
 1. Testez que votre site marche toujours.
